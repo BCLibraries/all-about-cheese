@@ -6,6 +6,7 @@
 * ½ small box graham crackers, crushed fine
 * 4 eggs
 * 2 cups sugar
+* 6 cherries
 * 1 small can crushed pineapple, drained
 * 2 cups milk
 * ⅓ cup flour
