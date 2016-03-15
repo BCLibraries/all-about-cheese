@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:exslt="http://exslt.org/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="id-2015-18972">
+<name type="corporate">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>National Archives and Records Administration</namePart>
+<namePart>Office of the Federal Register</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>FR</collectionCode>
+<category>Regulatory Information</category>
+<waisDatabaseName>2015_register</waisDatabaseName>
+<branch>executive</branch>
+<dateIngested>2015-07-31</dateIngested>
+</extension>
+<genre authority="marcgt">article</genre>
+<titleInfo>
+<title>Understanding Potential Intervention Measures To Reduce the Risk of Foodborne Illness From Consumption of Cheese Manufactured From Unpasteurized Milk</title>
+<partName>Notices</partName>
+</titleInfo>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/FR-2015-08-03/html/2015-18972.htm">
+<identifier type="FDsys Unique ID">D09002ee18e250c94</identifier>
+</relatedItem>
+<relatedItem type="otherFormat" xlink:href="https://www.gpo.gov/fdsys/pkg/FR-2015-08-03/pdf/2015-18972.pdf">
+<identifier type="FDsys Unique ID">D09002ee18e25118c</identifier>
+</relatedItem>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Department of Health and Human Services</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">originator</roleTerm>
+<roleTerm authority="marcrelator" type="code">org</roleTerm>
+</role>
+<description>United States Government Agency or Subagency</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Food and Drug Administration</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">originator</roleTerm>
+<roleTerm authority="marcrelator" type="code">org</roleTerm>
+</role>
+<description>United States Government Agency or Subagency</description>
+</name>
+<abstract>The Food and Drug Administration (FDA or we) is requesting comments and scientific data and information that would assist us in identifying and evaluating intervention measures that might have an effect on the presence of bacterial pathogens in cheeses manufactured from unpasteurized milk. We are taking this action in light of scientific data on potential health risks associated with consumption of cheese made from unpasteurized milk.</abstract>
+<identifier type="FR citation">80 FR 46023</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/granule/FR-2015-08-03/2015-18972</identifier>
+<identifier type="FR Doc No.">2015-18972</identifier>
+<identifier type="former granule identifier">fr03au15-80</identifier>
+<identifier type="billing code">4164-01-P</identifier>
+<identifier type="department code">Docket No. FDA-2015-N-2596</identifier>
+<location>
+<url displayLabel="Content Detail" access="object in context">https://www.gpo.gov/fdsys/granule/FR-2015-08-03/2015-18972/content-detail.html</url>
+<url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/FR-2015-08-03/html/2015-18972.htm</url>
+<url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/FR-2015-08-03/pdf/2015-18972.pdf</url>
+</location>
+<physicalDescription>
+<extent>2 p.</extent>
+</physicalDescription>
+<part type="Notices">
+<extent unit="pages">
+<start>46023</start>
+<end>46024</end>
+</extent>
+</part>
+<identifier type="preferred citation">80 FR 46023</identifier>
+<extension>
+<searchTitle>Understanding Potential Intervention Measures To Reduce the Risk of Foodborne Illness From Consumption of Cheese Manufactured From Unpasteurized Milk; Federal Register Vol. 80, Issue </searchTitle>
+<granuleClass>NOTICE</granuleClass>
+<accessId>2015-18972</accessId>
+<agency order="1">DEPARTMENT OF HEALTH AND HUMAN SERVICES</agency>
+<agency order="2">Food and Drug Administration</agency>
+<commentDate>2015-11-02</commentDate>
+<departmentDoc>Docket No. FDA-2015-N-2596</departmentDoc>
+<billingCode>4164-01-P</billingCode>
+<frDocNumber>2015-18972</frDocNumber>
+<action>Notice; request for comments and for scientific data and information.</action>
+<summary>ADD SUMMARY CONTENT HERE</summary>
+<dates>Submit either electronic or written comments and scientific data and information by November 2, 2015.</dates>
+<contact>Andrew Yeung, Center for Food Safety and Applied Nutrition (HFS-316), Food and Drug Administration, 5100 Paint Branch Pkwy., College Park, MD 20740-3835, 240-402-1541, andrew.yeung@fda.hhs.gov.</contact>
+<tocSubject1>Requests for Scientific Data and Information:</tocSubject1>
+<tocDoc>Understanding Potential Intervention Measures to Reduce the Risk of Foodborne Illness From Consumption of Cheese Manufactured From Unpasteurized Milk
+, </tocDoc>
+<emailRef>andrew.yeung@fda.hhs.gov</emailRef>
+<urlRef>http://www.fda.gov/Food/FoodScienceResearch/RiskSafetyAssessment/default.htm</urlRef>
+<urlRef>http://www.fda.gov/ScienceResearch/SpecialTopics/PeerReviewofScientificInformationandAssessments/ucm079120.htm</urlRef>
+<urlRef>http://www.regulations.gov</urlRef>
+</extension>
+<relatedItem type="host" ID="P0b002ee18d2a12ac" xlink:href="https://www.gpo.gov/fdsys/pkg/FR-2015-08-03/mods.xml">
+<titleInfo>
+<title>Federal Register</title>
+<partNumber>Vol. 80, no. 148</partNumber>
+</titleInfo>
+<originInfo>
+<publisher>Office of the Federal Register, National Archives and Records Administration</publisher>
+<dateIssued encoding="w3cdtf">2015-08-03</dateIssued>
+<issuance>continuing</issuance>
+<frequency>daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>350 p.</extent>
+</physicalDescription>
+<tableOfContents xlink:href="https://www.gpo.gov/fdsys/search/getfrtoc.action?selectedDate=2015-08-03">
+    Table of Contents:
+  </tableOfContents>
+<classification authority="sudocs">AE 2.7:</classification>
+<classification authority="sudocs">GS 4.107:</classification>
+<classification authority="sudocs">AE 2.106:</classification>
+<classification authority="lcc">KF70.A2</classification>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/FR-2015-08-03</identifier>
+<identifier type="local">P0b002ee18d2a12ac</identifier>
+<identifier type="issn">0097-6326</identifier>
+<identifier type="issn">0042-1219</identifier>
+<identifier type="issn">0364-1406</identifier>
+<identifier type="stock number">769-004-00000-9</identifier>
+<identifier type="ILS system id">000582072</identifier>
+<identifier type="former identifier">f:fr03au15</identifier>
+<location>
+<url displayLabel="Content Detail" access="object in context">https://www.gpo.gov/fdsys/pkg/FR-2015-08-03/content-detail.html</url>
+<url displayLabel="PDF rendition" access="raw object">https://www.gpo.gov/fdsys/pkg/FR-2015-08-03/pdf/FR-2015-08-03.pdf</url>
+<url displayLabel="XML rendition" access="raw object">https://www.gpo.gov/fdsys/pkg/FR-2015-08-03/xml/FR-2015-08-03.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<part type="issue">
+<extent unit="pages">
+<start>45841</start>
+<end>46180</end>
+</extent>
+</part>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2015-07-31</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2015-12-15</recordChangeDate>
+<recordIdentifier source="DGPO">FR-2015-08-03</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<extension>
+<docClass>FR</docClass>
+<accessId>FR-2015-08-03</accessId>
+<volume>80</volume>
+<issue>148</issue>
+</extension>
+</relatedItem>
+</mods>
